@@ -5,6 +5,9 @@
 
 #
 
+Hey Folks, you can reach me out to me directly on <img width="20" height="20" src="https://user-images.githubusercontent.com/69461635/111631703-b9575380-8819-11eb-93c9-f687d4ac4aea.png">(gaurigharatgg@gmail.com)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 <!---
 Gaurigharat/Gaurigharat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
